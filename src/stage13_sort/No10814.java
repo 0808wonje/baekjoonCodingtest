@@ -30,9 +30,5 @@ public class No10814 {
       bw.write("\n");
     }
     bw.flush();
-
-//    String a = "b";
-//    String b = "a";
-//    System.out.println(a.compareTo(b));
   }
 }
