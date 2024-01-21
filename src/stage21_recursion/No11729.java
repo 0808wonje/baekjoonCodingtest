@@ -9,7 +9,7 @@ public class No11729 {
     StringBuilder sb = new StringBuilder();
     move(n, 1, 3, 2, sb);
     System.out.println(cnt);
-    System.out.println();
+    System.out.println(sb);
 
   }
   private static int cnt;
